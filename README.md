@@ -16,3 +16,6 @@ You now have Nginx installed to serve your pages and MySQL installed to store an
 
 ## Extras
 1. [What are Ubuntu Repositories? How to enable or disable them?](https://itsfoss.com/ubuntu-repositories/)
+
+## How to launch:
+run the ./srcs/build.sh script
