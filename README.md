@@ -27,7 +27,7 @@ You now have Nginx installed to serve your pages and MySQL installed to store an
 
 |phpmyadmin/  
 |wordpress/ 
-|index1.html  
+|index1.html/ 
 |photo_2021...
 
 Feel free to play around with the db and ensure it works as specified in the subject description.
