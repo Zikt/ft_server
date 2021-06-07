@@ -23,10 +23,11 @@ You now have Nginx installed to serve your pages and MySQL installed to store an
 2. run the ./srcs/build.sh script
 3. Visit https://localhost/ and you get this structure as implemented:
 
-|../
-|phpmyadmin/
-|wordpress/
-|index1.html
+|../  
+
+|phpmyadmin/  
+|wordpress/ 
+|index1.html  
 |photo_2021...
 
 Feel free to play around with the db and ensure it works as specified in the subject description.
